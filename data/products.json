@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 6,
+      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "price": "",
+      "url": "./images/DFDG.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 7,
+      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "price": "",
+      "url": "./images/product3.png",
+      "category": "Footwear"
+    },
+    {
+      "id": 8,
+      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "price": "",
+      "url": "./images/product4.png",
+      "category": "Footwear"
+    },
+    {
+      "id": 9,
+      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "price": "",
+      "url": "./images/product5.png",
+      "category": "Footwear"
+    },
+    {
+      "id": 10,
+      "title": "ROG Headphone - Model 25",
+      "price": "",
+      "url": "./images/product6.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 11,
+      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "price": "",
+      "url": "./images/product7.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 12,
+      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "price": "",
+      "url": "./images/product8.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 13,
+      "title": "Nike Air Men’s Hoodie -  Imported Hoodie Red",
+      "price": "",
+      "url": "./images/product2.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 14,
+      "title": "ROG Headphone - Model 25",
+      "price": "100",
+      "url": "./images/FD.png",
+      "category": "Accessories"
+    }
+  ]
+}
